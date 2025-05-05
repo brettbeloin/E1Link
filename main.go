@@ -1,5 +1,7 @@
 package main
 
+//import "fmt"
+
 type gen interface {
 	~int | ~string | ~float64
 }
@@ -18,7 +20,8 @@ type link[T gen] struct {
 }
 
 func main() {
-
+	v := link[string]{}
+	v.add()
 }
 
 // Puts a new value at the Tail end of the list
@@ -66,10 +69,12 @@ func (l *link[T]) toString() {
 
 }
 
+// Create a single linked list
 func singleLinkList() {
 
 }
 
+// Create a double linked list
 func doubleLinkList() {
 
 }
