@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06ecba73-5eb1-4650-b995-13b57c9fcac6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../../csc250/lab/done/L4Queen.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../csc250/lab/done/L4Queen.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../csc250/lab/working/L3RecurseBattle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../csc250/lab/working/L3RecurseBattle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../csc250/lab/working/L3RecurseBattle/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../csc250/lab/working/L3RecurseBattle/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +17,11 @@
   </component>
   <component name="GOROOT" url="file:///usr/lib/go-1.24" />
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2wh0DK9vRboAfuTApVLXsT3xZ7F" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,7 +39,7 @@
     "git-widget-placeholder": "master",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/home/brett/nc/yearTwo/csc252/labs/working/E1Link",
+    "last_opened_file_path": "/home/brett/nc/yearTwo/csc252/exercis/working/E1Link",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
